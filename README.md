@@ -45,4 +45,3 @@ Let `n` be text length and `m` be pattern length:
 - KMP: O(n + m) time and O(m) auxiliary space.
 - This Boyer–Moore version uses the bad-character heuristic only; its worst-case time can be O(nm), with O(k) space for the last-occurrence table, where k is the number of distinct pattern characters.
 
-Note: This is an educational starter project. Test it with your lab's required compiler/language and format before submission.
